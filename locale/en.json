@@ -1,6 +1,6 @@
 {
   "meta": {
     "title": "ArcDream Hub · Hela",
-    "description": "Bridges the encrypted Hela persona card, hub status, runtime mode, and open-directory capability into DSH."
+    "description": "Bridges the encrypted Hela persona card, hub status, runtime mode, and open-directory capability into DSH; adds standalone WPS Office automation (detect/open/print/convert)."
   }
 }
