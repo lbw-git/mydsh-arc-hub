@@ -1,6 +1,6 @@
 {
   "name": "dsh-arc-hub",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "type": "module",
   "description": "ArcDream Hub bridge: encrypted Hela persona, hub status/mode tools, open directory, standalone WPS Office automation (info/open/print/convert via wpscli), anchor prompt.",
