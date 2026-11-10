@@ -5,7 +5,7 @@
 ## 安装
 
 ```
-dsh plugin --profile web add github:499596849-jpg/dsh-arc-hub
+dsh plugin --profile web add github:lbw-git/mydsh-arc-hub
 ```
 
 装完**重启一次 DSH**：设置里出现「弧梦中枢」，右下角出现数字中枢圆。
